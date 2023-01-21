@@ -1,0 +1,59 @@
+h1 {
+	color: white;
+	background-color: lightblue;
+	text-align: center;
+	font-size: 80px;
+	border-radius: 25px;
+	font-family: arial;
+}
+body {
+	background-color: #1C1C1C;
+	padding: 10px;
+}
+.sidenav {
+	font-family: arial;
+	padding: 10px;
+	background-color: lightblue;
+	height: 100%; /* Full-height: remove this if you want "auto" height */
+	width: 160px; /* Set the width of the sidebar */
+	position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+	z-index: 1; /* Stay on top */
+	top: 0; /* Stay at the top */
+	left: 0;
+	background-color: lightblue; /* Black */
+	overflow-x: hidden; /* Disable horizontal scroll */
+	padding-top: 20px;
+	text-align: center;
+	border-right: 10px solid white;
+	color: white;
+}
+.main {
+	padding-left: 200px;
+}
+.video {
+	height: 300px;
+	border-radius: 20px;
+	padding: 5px;
+}
+.videos {
+	text-align: center;
+}
+.links {
+	color: white;
+	text-decoration:none;
+}
+.subtitle {
+	font-size: 30px;
+	color: white;
+	background-color: lightblue;
+	border-radius: 25px;
+	padding: 5px;
+	padding-left: 30px;
+}
+.aboutme {
+	text-align: center;
+	color: #1C1C1C;
+	background-color: white;
+	border-radius: 25px;
+	padding: 10px;
+}
